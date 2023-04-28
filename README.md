@@ -1,1 +1,1 @@
-# -Creation-of-a-system-of-unmanned-swimming-vehicles-for-cleaning-water-bodies-
+Name of the project: Unmanned system of floating apparatus for cleaning water bodies
